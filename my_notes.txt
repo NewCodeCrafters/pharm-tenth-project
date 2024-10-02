@@ -1,0 +1,21 @@
+Hello
+Welcome to the command line interface
+Happy learning
+hello
+my name is samuel
+how are you all doing
+ajose samuel
+CLI is actually interesting
+it reduces workload for a programmer
+It is fast
+and also efficient
+Good to use 
+You just have to know a lot of commands
+and also be able to execute them without fear
+just strive harder to grt better 
+and trust me you will be among the best
+also pray to God for assistance
+He is sure to help you
+echo -e"jnfjjhgjhjg\nGhuhjjfijfj\nHygfyfuhj"
+
+
